@@ -1,0 +1,19 @@
+{
+  "name": "hidden-craft-teach",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.6",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "wagmi": "^1.6.5",
+    "ethers": "^6.8.1",
+    "@rainbow-me/rainbowkit": "^1.0.2",
+    "@sensoryai/sensory-web": "^1.0.0"
+  }
+} 
